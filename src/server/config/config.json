@@ -1,0 +1,6 @@
+{
+    "PORT": {
+        "val": "3000",
+        "_doc": "Listening port for the server app"
+    }
+}
